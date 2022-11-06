@@ -91,6 +91,6 @@ for input_log, battle_log in firectory:
     type1 = get_type(p1)
     type2 = get_type(p2)
     if(winner == 0):
-        mu_chart[types[type1]][types[type2]] += 1
-    elif(winner == 0):
         mu_chart[types[type2]][types[type1]] += 1
+    elif(winner == 1):
+        mu_chart[types[type1]][types[type2]] += 1
