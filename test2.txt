@@ -1,0 +1,6 @@
+>version 855bee47758c8e203fce9c72050fbccc525688e2
+>start {"formatid":"gen8nationaldexag","seed":[60403,55580,16352,17628]}
+>player p1 {"name":"megavenusaur101010","avatar":"169","team":"Alakazam||Alakazite|Synchronize|CalmMind|Jolly|,252,,,4,252||,0,,,,|||]Arceus|ArceusBug|InsectPlate|Multitype|Avalanche||252,,,,,|N||||]Groudon||RedOrb|Drought|PrecipiceBlades||,184,,,,|N||||]Necrozma|NecrozmaDuskMane|UltranecroziumZ|PrismArmor|SunsteelStrike||224,,,,,|N||||]Silvally|SilvallyDragon|DragonMemory|RKSSystem|DracoMeteor||252,,,,,|N|,0,,,,|||]Calyrex|CalyrexIce||AsOneGlastrier|Avalanche||252,,,,,|N||||","rating":0}
+>player p2 {"name":"MurderousMantyke","avatar":"#helpstaffxmas","team":"Groudon||RedOrb|Drought|PrecipiceBlades,RockTomb,StealthRock,SwordsDance|Jolly|,252,,,4,252|N||||]Rayquaza||LifeOrb|AirLock|DragonAscent,Earthquake,ExtremeSpeed,DragonDance|Adamant|,252,,,4,252|N||||]Calyrex|CalyrexShadow|GhostiumZ|AsOneSpectrier|AstralBarrage,NastyPlot,BatonPass,Substitute|Timid|4,,,252,,252|N|,0,,,,|||]Arceus||LifeOrb|Multitype|ExtremeSpeed,Earthquake,SwordsDance,Recover|Jolly|,252,,,4,252|N||||]Yveltal||LifeOrb|DarkAura|DarkPulse,OblivionWing,HeatWave,Taunt|Modest|,,,252,4,252|N|,0,,,,|||]Marshadow||LifeOrb|Technician|SpectralThief,CloseCombat,ShadowSneak,RockTomb|Jolly|,252,,,4,252|N||||","rating":0}
+>chat ☆MurderousMantyke|hf
+>forcelose p1
